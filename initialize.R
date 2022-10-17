@@ -1,0 +1,8 @@
+rm(list = ls())
+FFD_b <- c()
+BFD_b <- c()
+BP_b <- c()
+BF_b <- c()
+FFD2_b <- c()
+BFD2_b <- c()
+FFD3_b <- c()
