@@ -6,7 +6,7 @@ We then run the boxplots and anova (using Boxplotand Anova.R)
 lastly, we run the validation to get the results from the Friedman and Nemenyi tests (using validation.R)
 
 
-#GBPP2
+# GBPP2
 
 Upper bound and lower bound solutions are compiled (Using UFFD_UBFD.py, HS1m.py, characteristics_instances.py, algo_proposed.py and Get_upper_bounds.py).
 The percentage gap between the lower bounds and upper bounds is then calculated (Using Optim_gap.py)
